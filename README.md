@@ -8,7 +8,7 @@ This repository contains the implementation for our paper "Reconfigurable Hinged
 
 In this project, we introduce a computational method for **designing kirigami patterns that reconfigure flat sheets into complex shapes**. By analyzing planar tilings and their rotational deployment, we identify valid cuts and generate novel, physically realizable structures. This enables inverse design of expressive, gap-free geometries through combinatorial reconfiguration.
 
-More details about our paper can be found at: [[web demo]]() | [[project page]](https://igl.ethz.ch/projects/kirigami/) | [[paper]]() | [[suppl. video]](https://www.youtube.com/watch?v=DyvxWxhdnbg)) 
+More details about our paper can be found at: [[web demo]](https://segaviv.github.io/kirigami_tessellations/) | [[project page]](https://igl.ethz.ch/projects/kirigami/) | [[paper]](https://igl.ethz.ch/projects/kirigami/SGA25_kirigami_with_suppl.pdf) | [[suppl. video]](https://www.youtube.com/watch?v=DyvxWxhdnbg)) 
 
 ## Implementation
 We provide an interactive [web demo]() with the following interfaces:
